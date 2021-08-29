@@ -159,3 +159,9 @@ alias gau='/home/hextron/go/bin/gau'
 #-----------------------------------------------------------------------------------
 #bindkey
 bindkey -s '^E' 'ranger^M'
+
+
+#-----------------------------------------------------------------------------------
+#copy command 
+
+alias copy='xclip -selection clipboard'
