@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/hextron/.ssh'
+let g:netrw_dirhist_8='/home/hextron/Tools/dirsearch/db'
+let g:netrw_dirhist_7='/home/hextron/Tools/dirsearch'
+let g:netrw_dirhist_6='/home/hextron/Tools'
+let g:netrw_dirhist_5='/home/hextron'
+let g:netrw_dirhist_4='/home/hextron/Hack'
+let g:netrw_dirhist_3='/home/hextron/Hack/square'
+let g:netrw_dirhist_2='/etc/resolvconf/resolv.conf.d'
+let g:netrw_dirhist_1='/etc/resolvconf'
+let g:netrw_dirhist_0='/etc/resolvconf/resolv.conf.d'
