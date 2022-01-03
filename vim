@@ -104,7 +104,6 @@ Plugin 'megantiu/true.vim'
 call plug#begin('~/.vim/plugged')
 
 " Make sure you use single quotes
-
 " Shorthand notation; fetches https://github.com/junegunn/vim-easy-align
 Plug 'junegunn/vim-easy-align'
 
@@ -122,6 +121,10 @@ Plug 'fatih/vim-go', { 'tag': '*' }
 " Unmanaged plugin (manually installed and updated)
 Plug '~/my-prototype-plugin'
 
+" Plug 'francoiscabrol/ranger.vim'
+
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 " Initialize plugin system
 call plug#end()
 
@@ -136,6 +139,41 @@ nmap ga <Plug>(EasyAlign)
 set hlsearch
 
 
+"------------------------------------------------------------------------------
+"fzf
+" This is the default option:
+"   - Preview window on the right with 50% width
+"   - CTRL-/ will toggle preview window.
+" - Note that this array is passed as arguments to fzf#vim#with_preview function.
+" - To learn more about preview window options, see `--preview-window` section of `man fzf`.
+let g:fzf_preview_window = ['right:50%', 'ctrl-/']
+
+" Preview window on the upper side of the window with 40% height,
+" hidden by default, ctrl-/ to toggle
+let g:fzf_preview_window = ['up:40%:hidden', 'ctrl-/']
+
+" Empty value to disable preview window altogether
+let g:fzf_preview_window = []
+
+" [Buffers] Jump to the existing window if possible
+let g:fzf_buffers_jump = 1
+
+" [[B]Commits] Customize the options used by 'git log':
+let g:fzf_commits_log_options = '--graph --color=always --format="%C(auto)%h%d %s %C(black)%C(bold)%cr"'
+
+"# preview file with the command 
+
+" command! -bang -nargs=? -complete=dir Files  call fzf#vim#files(<q-args>, {'options': ['--layout=reverse', '--info=inline', '--preview', 'cat {}']}, <bang>0)
+
+"# Hide status line when initilize
+
+autocmd! FileType fzf set laststatus=0 noshowmode noruler | autocmd BufLeave <buffer> set laststatus=2 showmode ruler
+
+command! -bang -nargs=? -complete=dir Files
+    \ call fzf#vim#files(<q-args>, {'options': ['--layout=reverse', '--info=inline', '--preview', '~/.vim/plugged/fzf.vim/bin/preview.sh {}']}, <bang>0)
+
+
+nmap <leader><tab> :Files<CR>
 
 
 "------------------------------------------------------------------------------
@@ -156,3 +194,10 @@ let g:rainbow_active = 1
 "csv plugin
 
 Plugin 'mechatroner/rainbow_csv'
+
+
+"------------------------------------------------------------------------------
+"nnn config
+
+" Set custom mappings
+"#nnoremap <silent> <leader>r :Ranger<CR>
