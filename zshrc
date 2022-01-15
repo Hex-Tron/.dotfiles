@@ -125,10 +125,15 @@ clear
 #/home/hextron/.cargo/bin:
 
 export PATH=/var/lib/snapd/snap/bin:/home/hextron/.cargo/bin:/home/hextron/go/bin:/usr/lib/jackett:/home/hextron/.local/bin:$PATH
-alias show='find . -type f -readable | fzf -i --preview "~/.vim/plugged/fzf.vim/bin/preview.sh {} " --layout=reverse'
-#alias c='cd $(z | awk -F ' ' '{print $2}' | fzf )'
-alias c="cd \$(z | awk -F ' ' '{print \$2}' | fzf -i --preview 'exa -l {}' --layout=reverse --height=50%)"
-alias v="vim \$(show)"
+alias v='find . -type f -readable -not -path  "*/\.git*" | fzf -i --preview "~/.vim/plugged/fzf.vim/bin/preview.sh {} " --tac --bind "enter:execute(nvim {})"' # version new
+# fzf --multi --bind 'ctrl-a:select-all+accept'
+
+# alias v='find . -type f -readable -not -path  "*/\.git*" | fzf -i --preview "~/.vim/plugged/fzf.vim/bin/preview.sh {} " --tac --multi --bind "enter:execute(nvim {})" --bind "enter:kill-line"' #verion test
+#alias c='cd $(z | awk -F ' ' '{print $2}' | fzf )' #version 1
+
+#alias c="cd \$(z -gt | awk -F ' ' '{print \$2}' | fzf -i --preview 'exa -l {}'  --height=50%)" #version 2
+alias c="cd \$(z -gt | cut -b 12- | fzf -i --preview 'exa -l {}'  --height=50% --tac  --no-sort)"
+# alias v="$show --bind 'enter:execute(nvim {})' " version 1
 # source /home/hextron/go/src/github.com/tomnomnom/gf/gf-completion.bash
 source /home/hextron/go/pkg/mod/github.com/tomnomnom/gf@v0.0.0-20200618134122-dcd4c361f9f5/gf-completion.zsh
 alias gff='/home/hextron/go/bin/gf'
@@ -174,6 +179,12 @@ alias copy='xclip -selection clipboard'
 
 #-----------------------------------------------------------------------------------
 #v
-alias vh="vim \$(grep '^>' ~/.viminfo | awk -F ' ' '{print \$2}' | sed 's/~/\/home\/hextron/g' |fzf --height=40% -i --preview '~/.vim/plugged/fzf.vim/bin/preview.sh {}' )"
-#alias vh="vim \$(grep '^>' ~/.viminfo | awk -F ' ' '{print \$2}' | sed 's/~/\$(echo HOME)g' |fzf)"
+#alias vh="vim \$(grep '^>' ~/.viminfo | awk -F ' ' '{print \$2}' | sed 's/~/\/home\/hextron/g' |fzf --height=40% -i --preview '~/.vim/plugged/fzf.vim/bin/preview.sh {}' )"   #verion 1
 
+#alias vh="vim \$(grep '^>' ~/.viminfo | awk -F ' ' '{print \$2}' | sed 's/~/\$(echo HOME)g' |fzf)" version 2
+alias vh="grep '^>' ~/.viminfo | awk -F ' ' '{print \$2}' | sed 's/~/\/home\/hextron/g' |fzf --height=40% -i --no-sort --preview '~/.vim/plugged/fzf.vim/bin/preview.sh {}' --bind 'enter:execute(nvim {})'"
+
+#-----------------------------------------------------------------------------------
+#l
+alias l="exa -la --sort=time"
+ 
