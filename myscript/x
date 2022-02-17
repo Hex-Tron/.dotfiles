@@ -1,0 +1,40 @@
+#!/bin/bash
+
+fly=`cat /home/hextron/.viminfo | grep '^>' `
+fly2=`cat /home/hextron/.files`
+
+
+
+newvar=`echo -e "${fly2}\n${fly}"  | sort | uniq | dmenu -l 15`
+
+if [ ! -z $newvar ]
+then 
+
+file_var=`echo $newvar | cut -b 3-`
+editor_var=`echo 'Neovim
+vim
+Sublime text
+vscode' | dmenu -l 4`
+echo $editor_var
+case $editor_var in 
+  vscode)
+    code  $file_var
+    echo "> $file_var" >> /home/hextron/.files
+    ;;&
+  Sublime\ text)
+    subl $file_var 
+    echo "> $file_var" >> /home/hextron/.files
+    ;;&
+  vim)
+    terminator -e "vim $file_var"
+    echo "> $file_var" >> /home/hextron/.files
+    ;;&
+  Neovim)
+    terminator -e "nvim $file_var"
+    echo "> $file_var" >> /home/hextron/.files
+    ;;&
+esac
+ fi
+
+bluevar=`cat /home/hextron/.files | sort | uniq `
+echo -e "$bluevar"  > /home/hextron/.files

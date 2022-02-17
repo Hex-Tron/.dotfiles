@@ -1,0 +1,27 @@
+#!/bin/sh
+ 
+# okular  $(cat /home/hextron/.pdfiles | dmenu -i -p pdf -sb purple -l 15)
+# https://stackoverflow.com/questions/2268104/command-not-found-error-in-bash-variable-assignment
+
+# printf "$check" > /home/hextron/.pdfiles
+
+#makedir() {
+#if [[ ! -e '/home/hextron/.pdfiles' ]];
+#then	
+#	check=$(fd -e pdf)
+#	/bin/echo "$check" > /home/hextron/.pdfiles
+#fi
+#}
+#makedir
+
+var1=$( cat /home/hextron/.pdfiles | dmenu -l 15  -i -p pdf -sb purple )
+
+
+if [ ! -z $var1 ]
+then
+	# check=$(fd . '/home' -e pdf)
+	 okular $var1
+ else
+	 newinput=`/home/hextron/.cargo/bin/fd  -e pdf . '/home' `
+	echo -e "$newinput" > /home/hextron/.pdfiles
+fi

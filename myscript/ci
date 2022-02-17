@@ -1,0 +1,6 @@
+#!/bin/bash
+c="$(cat /home/hextron/.z | cut -d '|' -f 1 | dmenu -i -l 15)"
+if [ ! -z $c ]
+then
+  terminator --working-directory=$c
+fi
