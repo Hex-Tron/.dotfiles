@@ -1,0 +1,19 @@
+#!/bin/bash
+
+function main() {
+DMENU="dmenu -l 15  -i -p pdf -sb purple"
+testurl="https://subsplease.org/rss/"
+baseurl="https://thepiratebay0.org/rss//top100/0"
+browser="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+c2="-A=${browser} -x socks5://localhost:9050"
+curl  -x 'socks5://localhost:9050'  "$baseurl" > $HOME/.cache/torrent/testurl.txt
+parameter="-i -xml" 
+if [[ -f "$HOME/.cache/torrent/New.xml" ]] ; then 
+	rm $HOME/.cache/torrent/New.xml
+fi
+tidy $parameter $HOME/.cache/torrent/testurl.txt >>  $HOME/.cache/torrent/New.xml
+./box > $HOME/.cache/torrent/formated.txt
+cat $HOME/.cache/torrent/formated.txt | fzf --delimiter ':-:' --preview 'echo {4}'  --with-nth 1,2,3  --bind 'enter:execute(qbittorrent {4})'  -i
+}
+
+main

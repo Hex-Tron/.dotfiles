@@ -1,0 +1,2 @@
+#https://thepiratebay0.org/s/?q=new+doodle&page=0&orderby=99
+echo "" | dmenu -sb purple | tr ' ' '+'

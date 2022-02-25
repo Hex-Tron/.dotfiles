@@ -1,0 +1,47 @@
+package main
+import 	"fmt"
+import 	"github.com/antchfx/xmlquery"
+import "strings"
+import "os"
+
+func main() {
+	f, err := os.Open("./New.xml")
+	//	doc, err := xmlquery.Parse(f)
+	if err != nil {
+		panic(err)
+	}
+	//	channel := xmlquery.FindOne(doc, "//channel")
+	//	if n := channel.SelectElement("title"); n != nil {
+	//		fmt.Printf("title: %s\n", n.InnerText())
+	//	}
+	//	if n := channel.SelectElement("link"); n != nil {
+	//		fmt.Printf("link: %s\n", n.InnerText())
+	//	}
+	//	for  n := range xmlquery.Find(doc, "//item") {
+	//	//fmt.Printf("#%d %s\n", i, n.InnerText())
+	//	fmt.Printf('%s \n' ,n )
+
+	p, err := xmlquery.CreateStreamParser(f, "//item")
+	for {
+		n, err := p.Read()
+		if err != nil {
+			break
+
+		}
+
+		//		fmt.Println(n.OutputXML(true), "\n")
+		sp, err := xmlquery.CreateStreamParser(strings.NewReader(n.OutputXML(true)), "//title")
+		if err != nil {
+			panic(err)
+		}
+		for {
+			n, err := sp.Read()
+			if err != nil {
+				break
+			}
+			fmt.Println(n.InnerText())
+		}
+	}
+
+}
+

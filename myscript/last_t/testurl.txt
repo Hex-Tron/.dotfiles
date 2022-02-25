@@ -1,0 +1,1415 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE torrent PUBLIC "-//bitTorrent//DTD torrent 0.1//EN" "https://xmlns.ezrss.it/0.1/dtd/">
+<rss version="2.0" xmlns:dc="https://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>The Pirate Bay - All categories</title>
+		<link>https://thepiratebay0.org</link>
+		<description>The top100 torrents from The Pirate Bay</description>
+		<language>en</language>
+		<pubDate>Thu, 24 Feb 2022 05:55:06 +0100</pubDate>
+		<lastBuildDate>Thu, 24 Feb 2022 05:55:06 +0100</lastBuildDate>
+		<docs>https://blogs.law.harvard.edu/tech/rss</docs>
+		<generator>TPB RSS Generator 1.2</generator>
+
+		<item>
+			<title><![CDATA[Eternals (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:63CBB6D184A8723AD207A6692A53EEA871275ABA&amp;dn=Eternals+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55721180</comments>
+			<pubDate>Wed, 12 Jan 2022 04:29:45 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55721180/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3083852679</contentLength>
+				<infoHash>63CBB6D184A8723AD207A6692A53EEA871275ABA</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:63CBB6D184A8723AD207A6692A53EEA871275ABA&amp;dn=Eternals+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Encanto (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:B530343E74BEC6D25BEC982C91CF2D68AD0F8F15&amp;dn=Encanto+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55182163</comments>
+			<pubDate>Fri, 24 Dec 2021 07:54:09 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55182163/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2020730611</contentLength>
+				<infoHash>B530343E74BEC6D25BEC982C91CF2D68AD0F8F15</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:B530343E74BEC6D25BEC982C91CF2D68AD0F8F15&amp;dn=Encanto+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The Matrix Resurrections (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:CF109D8D0CFE46BFE7AC5378B587D27B71DD87A8&amp;dn=The+Matrix+Resurrections+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55131929</comments>
+			<pubDate>Wed, 22 Dec 2021 14:59:13 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55131929/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2928347593</contentLength>
+				<infoHash>CF109D8D0CFE46BFE7AC5378B587D27B71DD87A8</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:CF109D8D0CFE46BFE7AC5378B587D27B71DD87A8&amp;dn=The+Matrix+Resurrections+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Scream (2022) [REPACK] [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:F79669EA1E015A49467FFD80D2A51A0061851548&amp;dn=Scream+%282022%29+%5BREPACK%5D+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56787848</comments>
+			<pubDate>Thu, 17 Feb 2022 14:32:35 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56787848/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2043486192</contentLength>
+				<infoHash>F79669EA1E015A49467FFD80D2A51A0061851548</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:F79669EA1E015A49467FFD80D2A51A0061851548&amp;dn=Scream+%282022%29+%5BREPACK%5D+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The King&amp;#39;s Man (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:A4EF30F712716A0F0D444F4E88160CA2BF8AA1DD&amp;dn=The+King%27s+Man+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56538871</comments>
+			<pubDate>Wed, 09 Feb 2022 03:59:06 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56538871/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2586346943</contentLength>
+				<infoHash>A4EF30F712716A0F0D444F4E88160CA2BF8AA1DD</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:A4EF30F712716A0F0D444F4E88160CA2BF8AA1DD&amp;dn=The+King%27s+Man+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Shang-Chi and the Legend of the Ten Rings (2021) [1080p] [BluRay]]></title>
+			<link>magnet:?xt=urn:btih:98B61FD9DF89D0F4D08A23C14A0DEDFE38F81EFB&amp;dn=Shang-Chi+and+the+Legend+of+the+Ten+Rings+%282021%29+%5B1080p%5D+%5BBluRay</link>
+			<comments>https://thepiratebay0.org/torrent/53888568</comments>
+			<pubDate>Wed, 10 Nov 2021 15:30:38 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53888568/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2619786460</contentLength>
+				<infoHash>98B61FD9DF89D0F4D08A23C14A0DEDFE38F81EFB</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:98B61FD9DF89D0F4D08A23C14A0DEDFE38F81EFB&amp;dn=Shang-Chi+and+the+Legend+of+the+Ten+Rings+%282021%29+%5B1080p%5D+%5BBluRay]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Sing 2 (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:6A8D3F8021D391A62E8729FDD41438C2F1AF303D&amp;dn=Sing+2+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55582422</comments>
+			<pubDate>Fri, 07 Jan 2022 12:39:02 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55582422/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2172551152</contentLength>
+				<infoHash>6A8D3F8021D391A62E8729FDD41438C2F1AF303D</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:6A8D3F8021D391A62E8729FDD41438C2F1AF303D&amp;dn=Sing+2+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Dune (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:ED0DA850C273E3E15A819BDCBBF418BC85107EC8&amp;dn=Dune+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/53190554</comments>
+			<pubDate>Sun, 17 Oct 2021 17:00:53 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53190554/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2947989023</contentLength>
+				<infoHash>ED0DA850C273E3E15A819BDCBBF418BC85107EC8</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:ED0DA850C273E3E15A819BDCBBF418BC85107EC8&amp;dn=Dune+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[No Time to Die (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:0EF9E5FD42405DE76C8D8A2E3431FB3D153DB20C&amp;dn=No+Time+to+Die+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/53875269</comments>
+			<pubDate>Wed, 10 Nov 2021 02:18:26 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53875269/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3234319263</contentLength>
+				<infoHash>0EF9E5FD42405DE76C8D8A2E3431FB3D153DB20C</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:0EF9E5FD42405DE76C8D8A2E3431FB3D153DB20C&amp;dn=No+Time+to+Die+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Hotel Transylvania Transformania (2022) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:02DDE7F6D350B62F76D147A3185DA1199F6DB4D0&amp;dn=Hotel+Transylvania+Transformania+%282022%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55813664</comments>
+			<pubDate>Sat, 15 Jan 2022 07:00:07 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55813664/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1731770589</contentLength>
+				<infoHash>02DDE7F6D350B62F76D147A3185DA1199F6DB4D0</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:02DDE7F6D350B62F76D147A3185DA1199F6DB4D0&amp;dn=Hotel+Transylvania+Transformania+%282022%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Eternals (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:6C74A650AFC100BBF256AC978A49498E080B3F28&amp;dn=Eternals+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55707629</comments>
+			<pubDate>Tue, 11 Jan 2022 17:29:30 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55707629/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1500099481</contentLength>
+				<infoHash>6C74A650AFC100BBF256AC978A49498E080B3F28</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:6C74A650AFC100BBF256AC978A49498E080B3F28&amp;dn=Eternals+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Ghostbusters Afterlife (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:D4FCD32B3D8ED74640E28DF354AEAE908871FA4E&amp;dn=Ghostbusters+Afterlife+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55502037</comments>
+			<pubDate>Tue, 04 Jan 2022 11:33:09 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55502037/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2462062755</contentLength>
+				<infoHash>D4FCD32B3D8ED74640E28DF354AEAE908871FA4E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:D4FCD32B3D8ED74640E28DF354AEAE908871FA4E&amp;dn=Ghostbusters+Afterlife+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The King&amp;#39;s Man (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:FF688A5B4081ED8668C7DB20E049D4D51B28C8D3&amp;dn=The+King%27s+Man+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56538869</comments>
+			<pubDate>Wed, 09 Feb 2022 03:56:37 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56538869/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1258150794</contentLength>
+				<infoHash>FF688A5B4081ED8668C7DB20E049D4D51B28C8D3</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:FF688A5B4081ED8668C7DB20E049D4D51B28C8D3&amp;dn=The+King%27s+Man+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The Ice Age Adventures of Buck Wild (2022) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:8B8ECECD8334B2967F1E5EB914DD1B3B097E44F7&amp;dn=The+Ice+Age+Adventures+of+Buck+Wild+%282022%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56215301</comments>
+			<pubDate>Sat, 29 Jan 2022 06:30:52 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56215301/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1604947766</contentLength>
+				<infoHash>8B8ECECD8334B2967F1E5EB914DD1B3B097E44F7</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:8B8ECECD8334B2967F1E5EB914DD1B3B097E44F7&amp;dn=The+Ice+Age+Adventures+of+Buck+Wild+%282022%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Scream (2022) [REPACK] [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:184C54C02ABDE903AE238C8BF38F8DA2FD751247&amp;dn=Scream+%282022%29+%5BREPACK%5D+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56786589</comments>
+			<pubDate>Thu, 17 Feb 2022 13:25:12 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56786589/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1102097282</contentLength>
+				<infoHash>184C54C02ABDE903AE238C8BF38F8DA2FD751247</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:184C54C02ABDE903AE238C8BF38F8DA2FD751247&amp;dn=Scream+%282022%29+%5BREPACK%5D+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[MICROSOFT Office PRO Plus 2016 v16.0.4266.1003 RTM + Activator]]></title>
+			<link>magnet:?xt=urn:btih:4E64AAAF48D922DBD93F8B9E4ACAA78C99BC1F40&amp;dn=MICROSOFT+Office+PRO+Plus+2016+v16.0.4266.1003+RTM+%2B+Activator</link>
+			<comments>https://thepiratebay0.org/torrent/12499831</comments>
+			<pubDate>Sun, 27 Sep 2015 11:18:47 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[ThumperTM]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/12499831/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2372872664</contentLength>
+				<infoHash>4E64AAAF48D922DBD93F8B9E4ACAA78C99BC1F40</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4E64AAAF48D922DBD93F8B9E4ACAA78C99BC1F40&amp;dn=MICROSOFT+Office+PRO+Plus+2016+v16.0.4266.1003+RTM+%2B+Activator]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Spider-Man No Way Home (2021) 1080p CAM NO ADS Includes Both POS]]></title>
+			<link>magnet:?xt=urn:btih:D7F1A872C0A936F2E79DAD3060DB6D72A90BCB55&amp;dn=Spider-Man+No+Way+Home+%282021%29+1080p+CAM+NO+ADS+Includes+Both+POS</link>
+			<comments>https://thepiratebay0.org/torrent/55016015</comments>
+			<pubDate>Sat, 18 Dec 2021 16:36:00 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/201"><![CDATA[Video / Movies]]></category>
+			<dc:creator><![CDATA[xxxlavalxxx]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55016015/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2719012184</contentLength>
+				<infoHash>D7F1A872C0A936F2E79DAD3060DB6D72A90BCB55</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:D7F1A872C0A936F2E79DAD3060DB6D72A90BCB55&amp;dn=Spider-Man+No+Way+Home+%282021%29+1080p+CAM+NO+ADS+Includes+Both+POS]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Free Guy (2021) [1080p] [BluRay] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:7FD23FE2308AE558DCFDD687F3C94AE106AE835F&amp;dn=Free+Guy+%282021%29+%5B1080p%5D+%5BBluRay%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/52522250</comments>
+			<pubDate>Fri, 24 Sep 2021 04:35:22 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/52522250/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2277352116</contentLength>
+				<infoHash>7FD23FE2308AE558DCFDD687F3C94AE106AE835F</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:7FD23FE2308AE558DCFDD687F3C94AE106AE835F&amp;dn=Free+Guy+%282021%29+%5B1080p%5D+%5BBluRay%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Nightmare Alley (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:6DA1ECFA76CAB5D222A7CFAFBE81E34BD6820D74&amp;dn=Nightmare+Alley+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56334438</comments>
+			<pubDate>Wed, 02 Feb 2022 06:44:18 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56334438/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2971278351</contentLength>
+				<infoHash>6DA1ECFA76CAB5D222A7CFAFBE81E34BD6820D74</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:6DA1ECFA76CAB5D222A7CFAFBE81E34BD6820D74&amp;dn=Nightmare+Alley+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Venom Let There Be Carnage (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:4AACFD00C974AB67602CD53D43A7A47A6B0FAC95&amp;dn=Venom+Let+There+Be+Carnage+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/54269689</comments>
+			<pubDate>Tue, 23 Nov 2021 12:14:31 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/54269689/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1930733709</contentLength>
+				<infoHash>4AACFD00C974AB67602CD53D43A7A47A6B0FAC95</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4AACFD00C974AB67602CD53D43A7A47A6B0FAC95&amp;dn=Venom+Let+There+Be+Carnage+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 10 X64 Pro Activated + Office 2016 en-US OCT 2021 - DS]]></title>
+			<link>magnet:?xt=urn:btih:39595FE492BD72E5A52AC4F1DB9172E4E7A19619&amp;dn=Windows+10+X64+Pro+Activated+%2B+Office+2016+en-US+OCT+2021+-+DS</link>
+			<comments>https://thepiratebay0.org/torrent/53897099</comments>
+			<pubDate>Wed, 10 Nov 2021 22:41:47 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897099/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>8159760440</contentLength>
+				<infoHash>39595FE492BD72E5A52AC4F1DB9172E4E7A19619</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:39595FE492BD72E5A52AC4F1DB9172E4E7A19619&amp;dn=Windows+10+X64+Pro+Activated+%2B+Office+2016+en-US+OCT+2021+-+DS]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Texas Chainsaw Massacre (2022) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:DFA2A2FEBF1DC6CE34614354019CFA31ED74E2DD&amp;dn=Texas+Chainsaw+Massacre+%282022%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56842671</comments>
+			<pubDate>Sat, 19 Feb 2022 10:36:58 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56842671/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1645465723</contentLength>
+				<infoHash>DFA2A2FEBF1DC6CE34614354019CFA31ED74E2DD</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DFA2A2FEBF1DC6CE34614354019CFA31ED74E2DD&amp;dn=Texas+Chainsaw+Massacre+%282022%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Licorice Pizza (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:B8CCC9B5CB859516B95142F3F3B709633B5E2F1A&amp;dn=Licorice+Pizza+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56838335</comments>
+			<pubDate>Sat, 19 Feb 2022 07:03:38 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56838335/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2639981669</contentLength>
+				<infoHash>B8CCC9B5CB859516B95142F3F3B709633B5E2F1A</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:B8CCC9B5CB859516B95142F3F3B709633B5E2F1A&amp;dn=Licorice+Pizza+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Encanto (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:5CBE41AD37994C787166F516DB1056A1C500BF13&amp;dn=Encanto+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55182161</comments>
+			<pubDate>Fri, 24 Dec 2021 07:52:52 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55182161/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>982834318</contentLength>
+				<infoHash>5CBE41AD37994C787166F516DB1056A1C500BF13</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5CBE41AD37994C787166F516DB1056A1C500BF13&amp;dn=Encanto+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 11 X64 Pro Activated + Office 2016 en-US OCT 2021 - DS]]></title>
+			<link>magnet:?xt=urn:btih:063FE5C47E0622056692BB14D99AFEA14BFA5792&amp;dn=Windows+11+X64+Pro+Activated+%2B+Office+2016+en-US+OCT+2021+-+DS</link>
+			<comments>https://thepiratebay0.org/torrent/53897696</comments>
+			<pubDate>Wed, 10 Nov 2021 22:51:28 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897696/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>7965642808</contentLength>
+				<infoHash>063FE5C47E0622056692BB14D99AFEA14BFA5792</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:063FE5C47E0622056692BB14D99AFEA14BFA5792&amp;dn=Windows+11+X64+Pro+Activated+%2B+Office+2016+en-US+OCT+2021+-+DS]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 11 X64 Pro Activated en-US OCT 2021 TPM 2.0 Bypassed - D]]></title>
+			<link>magnet:?xt=urn:btih:732A3C913A17F177EC179DE0F0F6E58435928329&amp;dn=Windows+11+X64+Pro+Activated+en-US+OCT+2021+TPM+2.0+Bypassed+-+D</link>
+			<comments>https://thepiratebay0.org/torrent/53897705</comments>
+			<pubDate>Wed, 10 Nov 2021 23:03:49 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897705/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>5024714808</contentLength>
+				<infoHash>732A3C913A17F177EC179DE0F0F6E58435928329</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:732A3C913A17F177EC179DE0F0F6E58435928329&amp;dn=Windows+11+X64+Pro+Activated+en-US+OCT+2021+TPM+2.0+Bypassed+-+D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Sing 2 (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:07A691313B53A2BE892DE4C9B94A762C8904BF40&amp;dn=Sing+2+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55580545</comments>
+			<pubDate>Fri, 07 Jan 2022 11:11:45 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55580545/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1056938159</contentLength>
+				<infoHash>07A691313B53A2BE892DE4C9B94A762C8904BF40</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:07A691313B53A2BE892DE4C9B94A762C8904BF40&amp;dn=Sing+2+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 11 X64 Pro Activated + Office 2016 en-US OCT 2021 TPM 2.]]></title>
+			<link>magnet:?xt=urn:btih:DF195361E5ACB2A3ACAA0A89DF449A937AC4FE93&amp;dn=Windows+11+X64+Pro+Activated+%2B+Office+2016+en-US+OCT+2021+TPM+2.</link>
+			<comments>https://thepiratebay0.org/torrent/53897697</comments>
+			<pubDate>Wed, 10 Nov 2021 22:52:08 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897697/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>7966167096</contentLength>
+				<infoHash>DF195361E5ACB2A3ACAA0A89DF449A937AC4FE93</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DF195361E5ACB2A3ACAA0A89DF449A937AC4FE93&amp;dn=Windows+11+X64+Pro+Activated+%2B+Office+2016+en-US+OCT+2021+TPM+2.]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Encanto (2021) [1080p] [BluRay]]]></title>
+			<link>magnet:?xt=urn:btih:4CCDAB9846C32F941DC2D42E4E897D760FAF946E&amp;dn=Encanto+%282021%29+%5B1080p%5D+%5BBluRay%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55939461</comments>
+			<pubDate>Wed, 19 Jan 2022 12:45:40 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55939461/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2022210097</contentLength>
+				<infoHash>4CCDAB9846C32F941DC2D42E4E897D760FAF946E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4CCDAB9846C32F941DC2D42E4E897D760FAF946E&amp;dn=Encanto+%282021%29+%5B1080p%5D+%5BBluRay%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[SpiderMan No Way Home 2021 1080p HD-TS V3 Line Audio x264 AAC]]></title>
+			<link>magnet:?xt=urn:btih:4C9B41D664D7B6B23F0BF39AE185858CBADDA3FF&amp;dn=SpiderMan+No+Way+Home+2021+1080p+HD-TS+V3+Line+Audio+x264+AAC</link>
+			<comments>https://thepiratebay0.org/torrent/56344034</comments>
+			<pubDate>Wed, 02 Feb 2022 13:53:54 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[sotnikam]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56344034/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2724698073</contentLength>
+				<infoHash>4C9B41D664D7B6B23F0BF39AE185858CBADDA3FF</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4C9B41D664D7B6B23F0BF39AE185858CBADDA3FF&amp;dn=SpiderMan+No+Way+Home+2021+1080p+HD-TS+V3+Line+Audio+x264+AAC]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The Matrix Resurrections (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:4047212F26107915E430F8BAAAC6EAB4BCF00EE8&amp;dn=The+Matrix+Resurrections+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55131927</comments>
+			<pubDate>Wed, 22 Dec 2021 14:57:36 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55131927/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1424734996</contentLength>
+				<infoHash>4047212F26107915E430F8BAAAC6EAB4BCF00EE8</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4047212F26107915E430F8BAAAC6EAB4BCF00EE8&amp;dn=The+Matrix+Resurrections+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Black Widow (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:76D2015AC0445F1DCA0E8847E08D9093BB03CE50&amp;dn=Black+Widow+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/49526124</comments>
+			<pubDate>Fri, 09 Jul 2021 12:01:11 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/49526124/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2648731992</contentLength>
+				<infoHash>76D2015AC0445F1DCA0E8847E08D9093BB03CE50</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:76D2015AC0445F1DCA0E8847E08D9093BB03CE50&amp;dn=Black+Widow+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Hotel Transylvania Transformania (2022) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:A0DA2B3226F83237C24A88B85A1457D390FC1969&amp;dn=Hotel+Transylvania+Transformania+%282022%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55811230</comments>
+			<pubDate>Sat, 15 Jan 2022 05:10:54 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55811230/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>842463727</contentLength>
+				<infoHash>A0DA2B3226F83237C24A88B85A1457D390FC1969</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:A0DA2B3226F83237C24A88B85A1457D390FC1969&amp;dn=Hotel+Transylvania+Transformania+%282022%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Spider-Man No Way Home 2021 HDTC 1080p V3 NEW SOURCE LINE AUDIO]]></title>
+			<link>magnet:?xt=urn:btih:7CAA545A5C8BF1500CE902A273C1B49C6BC6E8F5&amp;dn=Spider-Man+No+Way+Home+2021+HDTC+1080p+V3+NEW+SOURCE+LINE+AUDIO</link>
+			<comments>https://thepiratebay0.org/torrent/55989483</comments>
+			<pubDate>Fri, 21 Jan 2022 04:33:37 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[sotnikam]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55989483/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3245344308</contentLength>
+				<infoHash>7CAA545A5C8BF1500CE902A273C1B49C6BC6E8F5</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:7CAA545A5C8BF1500CE902A273C1B49C6BC6E8F5&amp;dn=Spider-Man+No+Way+Home+2021+HDTC+1080p+V3+NEW+SOURCE+LINE+AUDIO]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The Ice Age Adventures of Buck Wild (2022) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:3CA5DDBFCA93563C0C788C14BDD1DBFDE093A09C&amp;dn=The+Ice+Age+Adventures+of+Buck+Wild+%282022%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56215300</comments>
+			<pubDate>Sat, 29 Jan 2022 06:29:59 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56215300/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>780789028</contentLength>
+				<infoHash>3CA5DDBFCA93563C0C788C14BDD1DBFDE093A09C</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:3CA5DDBFCA93563C0C788C14BDD1DBFDE093A09C&amp;dn=The+Ice+Age+Adventures+of+Buck+Wild+%282022%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 11 X64 Pro en-US OCT 2021 - DS]]></title>
+			<link>magnet:?xt=urn:btih:B263297F41635497F3055A08B12B1A110A38B3F2&amp;dn=Windows+11+X64+Pro+en-US+OCT+2021+-+DS</link>
+			<comments>https://thepiratebay0.org/torrent/53897706</comments>
+			<pubDate>Wed, 10 Nov 2021 23:04:23 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897706/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>5103947832</contentLength>
+				<infoHash>B263297F41635497F3055A08B12B1A110A38B3F2</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:B263297F41635497F3055A08B12B1A110A38B3F2&amp;dn=Windows+11+X64+Pro+en-US+OCT+2021+-+DS]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[House of Gucci (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:DA024F5FB74397BCE0B93473CA329C6FE3C67AF4&amp;dn=House+of+Gucci+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56304427</comments>
+			<pubDate>Tue, 01 Feb 2022 06:40:46 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56304427/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3123435195</contentLength>
+				<infoHash>DA024F5FB74397BCE0B93473CA329C6FE3C67AF4</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DA024F5FB74397BCE0B93473CA329C6FE3C67AF4&amp;dn=House+of+Gucci+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The Suicide Squad (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:32729D0D089180D1095279069148DDC27323188B&amp;dn=The+Suicide+Squad+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/50588181</comments>
+			<pubDate>Fri, 06 Aug 2021 12:13:19 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/50588181/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2615599277</contentLength>
+				<infoHash>32729D0D089180D1095279069148DDC27323188B</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:32729D0D089180D1095279069148DDC27323188B&amp;dn=The+Suicide+Squad+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fistful of Vengeance (2022) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:5056E3EE5C2F5B96CBC8BBFF93EC38AE914298EA&amp;dn=Fistful+of+Vengeance+%282022%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56784735</comments>
+			<pubDate>Thu, 17 Feb 2022 12:01:35 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56784735/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1909049647</contentLength>
+				<infoHash>5056E3EE5C2F5B96CBC8BBFF93EC38AE914298EA</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5056E3EE5C2F5B96CBC8BBFF93EC38AE914298EA&amp;dn=Fistful+of+Vengeance+%282022%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Shang-Chi and the Legend of the Ten Rings (2021) [720p] [BluRay]]]></title>
+			<link>magnet:?xt=urn:btih:E6C56AEBF6DF451E4D4239FCE1957CA71ACB1704&amp;dn=Shang-Chi+and+the+Legend+of+the+Ten+Rings+%282021%29+%5B720p%5D+%5BBluRay%5D</link>
+			<comments>https://thepiratebay0.org/torrent/53888565</comments>
+			<pubDate>Wed, 10 Nov 2021 15:20:32 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53888565/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1274252142</contentLength>
+				<infoHash>E6C56AEBF6DF451E4D4239FCE1957CA71ACB1704</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:E6C56AEBF6DF451E4D4239FCE1957CA71ACB1704&amp;dn=Shang-Chi+and+the+Legend+of+the+Ten+Rings+%282021%29+%5B720p%5D+%5BBluRay%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Resident Evil Welcome to Raccoon City (2021) [1080p] [WEBRip] [5]]></title>
+			<link>magnet:?xt=urn:btih:EEADAE033A6251CBF798178FBD99225B7146F685&amp;dn=Resident+Evil+Welcome+to+Raccoon+City+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5</link>
+			<comments>https://thepiratebay0.org/torrent/55096398</comments>
+			<pubDate>Tue, 21 Dec 2021 09:52:11 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55096398/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2131533252</contentLength>
+				<infoHash>EEADAE033A6251CBF798178FBD99225B7146F685</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:EEADAE033A6251CBF798178FBD99225B7146F685&amp;dn=Resident+Evil+Welcome+to+Raccoon+City+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 11 X64 Pro en-US OCT 2021 TPM 2.0 Bypassed - DS]]></title>
+			<link>magnet:?xt=urn:btih:287DC63AE77CD1FFBBBBC00A165ACC5FF628290E&amp;dn=Windows+11+X64+Pro+en-US+OCT+2021+TPM+2.0+Bypassed+-+DS</link>
+			<comments>https://thepiratebay0.org/torrent/53897708</comments>
+			<pubDate>Wed, 10 Nov 2021 23:04:53 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897708/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>5102899256</contentLength>
+				<infoHash>287DC63AE77CD1FFBBBBC00A165ACC5FF628290E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:287DC63AE77CD1FFBBBBC00A165ACC5FF628290E&amp;dn=Windows+11+X64+Pro+en-US+OCT+2021+TPM+2.0+Bypassed+-+DS]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Ghostbusters Afterlife (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:97FBCE677C14E2B709C0C3D7E70474163B03F074&amp;dn=Ghostbusters+Afterlife+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55500507</comments>
+			<pubDate>Tue, 04 Jan 2022 08:46:29 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55500507/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1197192143</contentLength>
+				<infoHash>97FBCE677C14E2B709C0C3D7E70474163B03F074</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:97FBCE677C14E2B709C0C3D7E70474163B03F074&amp;dn=Ghostbusters+Afterlife+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Venom Let There Be Carnage (2021) [1080p] [BluRay]]]></title>
+			<link>magnet:?xt=urn:btih:4051964F4F7504458E2F1ED7D0D999DA4FD283F2&amp;dn=Venom+Let+There+Be+Carnage+%282021%29+%5B1080p%5D+%5BBluRay%5D</link>
+			<comments>https://thepiratebay0.org/torrent/54562632</comments>
+			<pubDate>Fri, 03 Dec 2021 09:37:53 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/54562632/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1925749670</contentLength>
+				<infoHash>4051964F4F7504458E2F1ED7D0D999DA4FD283F2</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4051964F4F7504458E2F1ED7D0D999DA4FD283F2&amp;dn=Venom+Let+There+Be+Carnage+%282021%29+%5B1080p%5D+%5BBluRay%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Marry Me (2022) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:98938C1F15EA3D0D2FDA606521C3A6895555487C&amp;dn=Marry+Me+%282022%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56603108</comments>
+			<pubDate>Fri, 11 Feb 2022 08:40:04 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56603108/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2218521198</contentLength>
+				<infoHash>98938C1F15EA3D0D2FDA606521C3A6895555487C</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:98938C1F15EA3D0D2FDA606521C3A6895555487C&amp;dn=Marry+Me+%282022%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Harry Potter 20th Anniversary Return to Hogwarts (2022) [1080p]]]></title>
+			<link>magnet:?xt=urn:btih:180D1CEB84CDE71D4461E71421C1107199518695&amp;dn=Harry+Potter+20th+Anniversary+Return+to+Hogwarts+%282022%29+%5B1080p%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55425899</comments>
+			<pubDate>Sat, 01 Jan 2022 14:47:49 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55425899/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2038354469</contentLength>
+				<infoHash>180D1CEB84CDE71D4461E71421C1107199518695</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:180D1CEB84CDE71D4461E71421C1107199518695&amp;dn=Harry+Potter+20th+Anniversary+Return+to+Hogwarts+%282022%29+%5B1080p%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Texas Chainsaw Massacre (2022) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:7BBBA3A431AB860401CA2848AD28179820B71B5C&amp;dn=Texas+Chainsaw+Massacre+%282022%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56842669</comments>
+			<pubDate>Sat, 19 Feb 2022 10:35:55 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56842669/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>799469148</contentLength>
+				<infoHash>7BBBA3A431AB860401CA2848AD28179820B71B5C</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:7BBBA3A431AB860401CA2848AD28179820B71B5C&amp;dn=Texas+Chainsaw+Massacre+%282022%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fistful of Vengeance (2022) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:55C50977FB2346A13DD6E8BF865198790193F2D8&amp;dn=Fistful+of+Vengeance+%282022%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56784734</comments>
+			<pubDate>Thu, 17 Feb 2022 12:01:01 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56784734/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>928349288</contentLength>
+				<infoHash>55C50977FB2346A13DD6E8BF865198790193F2D8</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:55C50977FB2346A13DD6E8BF865198790193F2D8&amp;dn=Fistful+of+Vengeance+%282022%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[SpiderMan.No.Way.Home.2021.V2.1080p.HDCAM-C1NEM4]]></title>
+			<link>magnet:?xt=urn:btih:5933A99DB70A430B50BFB5B5F5B56BC7F474CCD8&amp;dn=SpiderMan.No.Way.Home.2021.V2.1080p.HDCAM-C1NEM4</link>
+			<comments>https://thepiratebay0.org/torrent/54970208</comments>
+			<pubDate>Fri, 17 Dec 2021 03:37:24 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[sotnikam]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/54970208/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3283406699</contentLength>
+				<infoHash>5933A99DB70A430B50BFB5B5F5B56BC7F474CCD8</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5933A99DB70A430B50BFB5B5F5B56BC7F474CCD8&amp;dn=SpiderMan.No.Way.Home.2021.V2.1080p.HDCAM-C1NEM4]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Fast and Furious 9 The Fast Saga 2021 [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:CA6BCAC2C8712370C9FCEA47B7FF4536568A3779&amp;dn=Fast+and+Furious+9+The+Fast+Saga+2021+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/50300662</comments>
+			<pubDate>Thu, 29 Jul 2021 12:09:32 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/50300662/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2827603860</contentLength>
+				<infoHash>CA6BCAC2C8712370C9FCEA47B7FF4536568A3779</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:CA6BCAC2C8712370C9FCEA47B7FF4536568A3779&amp;dn=Fast+and+Furious+9+The+Fast+Saga+2021+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 10 X64 Pro Activated en-US OCT 2021 - DS]]></title>
+			<link>magnet:?xt=urn:btih:8FA2E0ED8D2CA94E5905CB5ECD8C4468CFEED768&amp;dn=Windows+10+X64+Pro+Activated+en-US+OCT+2021+-+DS</link>
+			<comments>https://thepiratebay0.org/torrent/53897100</comments>
+			<pubDate>Wed, 10 Nov 2021 22:42:15 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897100/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>5670637624</contentLength>
+				<infoHash>8FA2E0ED8D2CA94E5905CB5ECD8C4468CFEED768</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:8FA2E0ED8D2CA94E5905CB5ECD8C4468CFEED768&amp;dn=Windows+10+X64+Pro+Activated+en-US+OCT+2021+-+DS]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Nightmare Alley (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:211529A80B42C0ECBDF7DDD74347650DA4A97B30&amp;dn=Nightmare+Alley+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56311971</comments>
+			<pubDate>Tue, 01 Feb 2022 12:32:17 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56311971/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1445402468</contentLength>
+				<infoHash>211529A80B42C0ECBDF7DDD74347650DA4A97B30</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:211529A80B42C0ECBDF7DDD74347650DA4A97B30&amp;dn=Nightmare+Alley+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 11 X64 Pro Activated en-US OCT 2021 - DS]]></title>
+			<link>magnet:?xt=urn:btih:547BE3C37B7E3EAAD37CE0AA8271A75658285302&amp;dn=Windows+11+X64+Pro+Activated+en-US+OCT+2021+-+DS</link>
+			<comments>https://thepiratebay0.org/torrent/53897698</comments>
+			<pubDate>Wed, 10 Nov 2021 22:52:36 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897698/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>6285627448</contentLength>
+				<infoHash>547BE3C37B7E3EAAD37CE0AA8271A75658285302</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:547BE3C37B7E3EAAD37CE0AA8271A75658285302&amp;dn=Windows+11+X64+Pro+Activated+en-US+OCT+2021+-+DS]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Red Notice (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:70B28A98FD0DEAFC1AB8E53ABAA5D98290359491&amp;dn=Red+Notice+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/53962169</comments>
+			<pubDate>Sat, 13 Nov 2021 03:13:14 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53962169/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2338140863</contentLength>
+				<infoHash>70B28A98FD0DEAFC1AB8E53ABAA5D98290359491</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:70B28A98FD0DEAFC1AB8E53ABAA5D98290359491&amp;dn=Red+Notice+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Spider-Man No Way Home (2021) 720p English Pre-DVDRip x264 AAC 2]]></title>
+			<link>magnet:?xt=urn:btih:5A6194C4E92A459A1313B7A4E9F7A9EB18FB9205&amp;dn=Spider-Man+No+Way+Home+%282021%29+720p+English+Pre-DVDRip+x264+AAC+2</link>
+			<comments>https://thepiratebay0.org/torrent/54948506</comments>
+			<pubDate>Thu, 16 Dec 2021 10:00:37 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/201"><![CDATA[Video / Movies]]></category>
+			<dc:creator><![CDATA[shmasti]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/54948506/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1358527508</contentLength>
+				<infoHash>5A6194C4E92A459A1313B7A4E9F7A9EB18FB9205</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:5A6194C4E92A459A1313B7A4E9F7A9EB18FB9205&amp;dn=Spider-Man+No+Way+Home+%282021%29+720p+English+Pre-DVDRip+x264+AAC+2]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Windows 10 X64 Pro 21H1 en-US OCT 2021 - DS]]></title>
+			<link>magnet:?xt=urn:btih:58465B182F09A6B9486371ABE7FC4CF16AA6C336&amp;dn=Windows+10+X64+Pro+21H1+en-US+OCT+2021+-+DS</link>
+			<comments>https://thepiratebay0.org/torrent/53897098</comments>
+			<pubDate>Wed, 10 Nov 2021 22:41:12 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DivineShadow]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53897098/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>5229973560</contentLength>
+				<infoHash>58465B182F09A6B9486371ABE7FC4CF16AA6C336</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:58465B182F09A6B9486371ABE7FC4CF16AA6C336&amp;dn=Windows+10+X64+Pro+21H1+en-US+OCT+2021+-+DS]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Free Guy (2021) [720p] [BluRay]]]></title>
+			<link>magnet:?xt=urn:btih:316BBF08B799AC30042DDC96FAA7BB2C50260F5D&amp;dn=Free+Guy+%282021%29+%5B720p%5D+%5BBluRay%5D</link>
+			<comments>https://thepiratebay0.org/torrent/52522249</comments>
+			<pubDate>Fri, 24 Sep 2021 04:34:56 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/52522249/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1108241737</contentLength>
+				<infoHash>316BBF08B799AC30042DDC96FAA7BB2C50260F5D</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:316BBF08B799AC30042DDC96FAA7BB2C50260F5D&amp;dn=Free+Guy+%282021%29+%5B720p%5D+%5BBluRay%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[No Time to Die (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:BC9F2E572B4947E810F784DCDC740D779A15E7B0&amp;dn=No+Time+to+Die+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/53867340</comments>
+			<pubDate>Tue, 09 Nov 2021 16:52:55 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53867340/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1573304694</contentLength>
+				<infoHash>BC9F2E572B4947E810F784DCDC740D779A15E7B0</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:BC9F2E572B4947E810F784DCDC740D779A15E7B0&amp;dn=No+Time+to+Die+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The 355 (2022) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:EE31FDF701AFF98936A4458BC59ACE4AAC57F272&amp;dn=The+355+%282022%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56161208</comments>
+			<pubDate>Thu, 27 Jan 2022 10:50:55 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[sotnikam]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56161208/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1180058084</contentLength>
+				<infoHash>EE31FDF701AFF98936A4458BC59ACE4AAC57F272</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:EE31FDF701AFF98936A4458BC59ACE4AAC57F272&amp;dn=The+355+%282022%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Marry Me (2022) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:8CA8E41529AA0A2DB84C394C67327F8E40D0A4BE&amp;dn=Marry+Me+%282022%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56603107</comments>
+			<pubDate>Fri, 11 Feb 2022 08:39:38 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56603107/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1079534729</contentLength>
+				<infoHash>8CA8E41529AA0A2DB84C394C67327F8E40D0A4BE</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:8CA8E41529AA0A2DB84C394C67327F8E40D0A4BE&amp;dn=Marry+Me+%282022%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Reacher.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV]]></title>
+			<link>magnet:?xt=urn:btih:0050352F8E1BCC05B9EB5386E10D1B5E6A5CBB65&amp;dn=Reacher.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV</link>
+			<comments>https://thepiratebay0.org/torrent/56397140</comments>
+			<pubDate>Fri, 04 Feb 2022 09:14:10 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/208"><![CDATA[Video / HD - TV shows]]></category>
+			<dc:creator><![CDATA[GalaxyRG]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56397140/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2429990874</contentLength>
+				<infoHash>0050352F8E1BCC05B9EB5386E10D1B5E6A5CBB65</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:0050352F8E1BCC05B9EB5386E10D1B5E6A5CBB65&amp;dn=Reacher.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Jungle Cruise (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:33969D34FC1A1988ABDFE061F4EC19AD70D7BE4B&amp;dn=Jungle+Cruise+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/50334660</comments>
+			<pubDate>Fri, 30 Jul 2021 12:23:57 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/50334660/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2521105457</contentLength>
+				<infoHash>33969D34FC1A1988ABDFE061F4EC19AD70D7BE4B</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:33969D34FC1A1988ABDFE061F4EC19AD70D7BE4B&amp;dn=Jungle+Cruise+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The Last Duel (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:E9742045F8AA54AB33D317A6D2583483EA7FC06B&amp;dn=The+Last+Duel+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/54440851</comments>
+			<pubDate>Mon, 29 Nov 2021 07:02:55 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/54440851/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3008641235</contentLength>
+				<infoHash>E9742045F8AA54AB33D317A6D2583483EA7FC06B</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:E9742045F8AA54AB33D317A6D2583483EA7FC06B&amp;dn=The+Last+Duel+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Scream.2022.720p.WEBRip.800MB.x264-GalaxyRG]]></title>
+			<link>magnet:?xt=urn:btih:99D4A98ADA733CFA520BB4E813A933CA7F3C9FA1&amp;dn=Scream.2022.720p.WEBRip.800MB.x264-GalaxyRG</link>
+			<comments>https://thepiratebay0.org/torrent/56764247</comments>
+			<pubDate>Wed, 16 Feb 2022 19:39:59 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[GalaxyRG]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56764247/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>835629747</contentLength>
+				<infoHash>99D4A98ADA733CFA520BB4E813A933CA7F3C9FA1</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:99D4A98ADA733CFA520BB4E813A933CA7F3C9FA1&amp;dn=Scream.2022.720p.WEBRip.800MB.x264-GalaxyRG]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Encanto (2021) [720p] [BluRay]]]></title>
+			<link>magnet:?xt=urn:btih:2005339B73E4DA49B05DF2EF6D4F0BED50470676&amp;dn=Encanto+%282021%29+%5B720p%5D+%5BBluRay%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55939460</comments>
+			<pubDate>Wed, 19 Jan 2022 12:44:59 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55939460/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>984205344</contentLength>
+				<infoHash>2005339B73E4DA49B05DF2EF6D4F0BED50470676</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:2005339B73E4DA49B05DF2EF6D4F0BED50470676&amp;dn=Encanto+%282021%29+%5B720p%5D+%5BBluRay%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Venom Let There Be Carnage (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:E269478A44A9E8C27A9084B86191EC7BB2A5ECD8&amp;dn=Venom+Let+There+Be+Carnage+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/54266581</comments>
+			<pubDate>Tue, 23 Nov 2021 09:40:39 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/54266581/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>939004743</contentLength>
+				<infoHash>E269478A44A9E8C27A9084B86191EC7BB2A5ECD8</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:E269478A44A9E8C27A9084B86191EC7BB2A5ECD8&amp;dn=Venom+Let+There+Be+Carnage+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Euphoria.US.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV]]></title>
+			<link>magnet:?xt=urn:btih:707EC60D116E30B84DF24E09E3E1304F6B5BEA96&amp;dn=Euphoria.US.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV</link>
+			<comments>https://thepiratebay0.org/torrent/34294455</comments>
+			<pubDate>Tue, 06 Aug 2019 03:45:45 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/208"><![CDATA[Video / HD - TV shows]]></category>
+			<dc:creator><![CDATA[sotnikam]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/34294455/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3012099880</contentLength>
+				<infoHash>707EC60D116E30B84DF24E09E3E1304F6B5BEA96</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:707EC60D116E30B84DF24E09E3E1304F6B5BEA96&amp;dn=Euphoria.US.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The.Kings.Man.2021.720p.WEBRip.900MB.x264-GalaxyRG]]></title>
+			<link>magnet:?xt=urn:btih:49F2AE7717A18626DD66953B51630E3DE94FE3E6&amp;dn=The.Kings.Man.2021.720p.WEBRip.900MB.x264-GalaxyRG</link>
+			<comments>https://thepiratebay0.org/torrent/56525312</comments>
+			<pubDate>Tue, 08 Feb 2022 16:51:28 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[GalaxyRG]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56525312/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>940605787</contentLength>
+				<infoHash>49F2AE7717A18626DD66953B51630E3DE94FE3E6</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:49F2AE7717A18626DD66953B51630E3DE94FE3E6&amp;dn=The.Kings.Man.2021.720p.WEBRip.900MB.x264-GalaxyRG]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Kimi (2022) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:E94F63EF3390142DA252D9484E605517FBBB844F&amp;dn=Kimi+%282022%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56585777</comments>
+			<pubDate>Thu, 10 Feb 2022 18:04:14 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56585777/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1759977209</contentLength>
+				<infoHash>E94F63EF3390142DA252D9484E605517FBBB844F</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:E94F63EF3390142DA252D9484E605517FBBB844F&amp;dn=Kimi+%282022%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Avengers.Endgame.2019.1080p.BRRip.x264-MP4]]></title>
+			<link>magnet:?xt=urn:btih:223F7484D326AD8EFD3CF1E548DED524833CB77E&amp;dn=Avengers.Endgame.2019.1080p.BRRip.x264-MP4</link>
+			<comments>https://thepiratebay0.org/torrent/34281763</comments>
+			<pubDate>Thu, 01 Aug 2019 17:48:23 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[MrStark]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/34281763/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3234080726</contentLength>
+				<infoHash>223F7484D326AD8EFD3CF1E548DED524833CB77E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:223F7484D326AD8EFD3CF1E548DED524833CB77E&amp;dn=Avengers.Endgame.2019.1080p.BRRip.x264-MP4]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[linuxmint-20.3-cinnamon-64bit.iso]]></title>
+			<link>magnet:?xt=urn:btih:8A0831E064719F432C2D2FFDE6E19635D052A4B4&amp;dn=linuxmint-20.3-cinnamon-64bit.iso</link>
+			<comments>https://thepiratebay0.org/torrent/55594300</comments>
+			<pubDate>Fri, 07 Jan 2022 21:55:34 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/303"><![CDATA[Applications / UNIX]]></category>
+			<dc:creator><![CDATA[metheguy]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55594300/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2251653120</contentLength>
+				<infoHash>8A0831E064719F432C2D2FFDE6E19635D052A4B4</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:8A0831E064719F432C2D2FFDE6E19635D052A4B4&amp;dn=linuxmint-20.3-cinnamon-64bit.iso]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Cruella (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:90753442658D029007D8D745ABE820752878F866&amp;dn=Cruella+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/46360510</comments>
+			<pubDate>Sat, 29 May 2021 12:15:27 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/46360510/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2650552660</contentLength>
+				<infoHash>90753442658D029007D8D745ABE820752878F866</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:90753442658D029007D8D745ABE820752878F866&amp;dn=Cruella+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Eternals (2021) [1080p] [BluRay] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:F921C01B1D8BC2D5B1C13B1F03275C932BA1157E&amp;dn=Eternals+%282021%29+%5B1080p%5D+%5BBluRay%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56098412</comments>
+			<pubDate>Tue, 25 Jan 2022 08:20:44 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56098412/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2857046172</contentLength>
+				<infoHash>F921C01B1D8BC2D5B1C13B1F03275C932BA1157E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:F921C01B1D8BC2D5B1C13B1F03275C932BA1157E&amp;dn=Eternals+%282021%29+%5B1080p%5D+%5BBluRay%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Peacemaker 2022 S01E08 1080p WEB H264-PECULATE]]></title>
+			<link>magnet:?xt=urn:btih:14A9380D55FE014AEBF961D0FBC6798AC0BE8DAE&amp;dn=Peacemaker+2022+S01E08+1080p+WEB+H264-PECULATE</link>
+			<comments>https://thepiratebay0.org/torrent/56781680</comments>
+			<pubDate>Thu, 17 Feb 2022 09:50:11 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/208"><![CDATA[Video / HD - TV shows]]></category>
+			<dc:creator><![CDATA[jajaja]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56781680/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2877628088</contentLength>
+				<infoHash>14A9380D55FE014AEBF961D0FBC6798AC0BE8DAE</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:14A9380D55FE014AEBF961D0FBC6798AC0BE8DAE&amp;dn=Peacemaker+2022+S01E08+1080p+WEB+H264-PECULATE]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Finch (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:2298FADBA64CDF9FE01BE862A9765E7559EB797B&amp;dn=Finch+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/53842900</comments>
+			<pubDate>Mon, 08 Nov 2021 10:30:10 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53842900/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2289332467</contentLength>
+				<infoHash>2298FADBA64CDF9FE01BE862A9765E7559EB797B</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:2298FADBA64CDF9FE01BE862A9765E7559EB797B&amp;dn=Finch+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Project.Gemini.2022.720p.AMZN.WEBRip.800MB.x264-GalaxyRG]]></title>
+			<link>magnet:?xt=urn:btih:0336D3FC4C257DBCB2E053FA427D7F2AB4FF529D&amp;dn=Project.Gemini.2022.720p.AMZN.WEBRip.800MB.x264-GalaxyRG</link>
+			<comments>https://thepiratebay0.org/torrent/56935621</comments>
+			<pubDate>Wed, 23 Feb 2022 12:58:28 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[GalaxyRG]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56935621/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>833992844</contentLength>
+				<infoHash>0336D3FC4C257DBCB2E053FA427D7F2AB4FF529D</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:0336D3FC4C257DBCB2E053FA427D7F2AB4FF529D&amp;dn=Project.Gemini.2022.720p.AMZN.WEBRip.800MB.x264-GalaxyRG]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Don&amp;#39;t Look Up (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:DAB452AB6FE809CCB574C2B7E6AE52048B6DDC8C&amp;dn=Don%27t+Look+Up+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55243547</comments>
+			<pubDate>Sun, 26 Dec 2021 10:04:59 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55243547/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2838468976</contentLength>
+				<infoHash>DAB452AB6FE809CCB574C2B7E6AE52048B6DDC8C</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:DAB452AB6FE809CCB574C2B7E6AE52048B6DDC8C&amp;dn=Don%27t+Look+Up+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Red Notice (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:4D9765A6A1CFC80500341F6238FE1A1B76DE5C3B&amp;dn=Red+Notice+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/53950478</comments>
+			<pubDate>Fri, 12 Nov 2021 17:43:17 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53950478/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1137086826</contentLength>
+				<infoHash>4D9765A6A1CFC80500341F6238FE1A1B76DE5C3B</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:4D9765A6A1CFC80500341F6238FE1A1B76DE5C3B&amp;dn=Red+Notice+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The 355 (2022) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:16E60244B5BE907B23BA532DF104863DC7660C5D&amp;dn=The+355+%282022%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56161870</comments>
+			<pubDate>Thu, 27 Jan 2022 11:29:36 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56161870/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2425820352</contentLength>
+				<infoHash>16E60244B5BE907B23BA532DF104863DC7660C5D</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:16E60244B5BE907B23BA532DF104863DC7660C5D&amp;dn=The+355+%282022%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The Book of Boba Fett S01E06 1080p WEB h264-KOGi]]></title>
+			<link>magnet:?xt=urn:btih:3FCA5F77D87EDA9909AD5F665709A88EC381A5ED&amp;dn=The+Book+of+Boba+Fett+S01E06+1080p+WEB+h264-KOGi</link>
+			<comments>https://thepiratebay0.org/torrent/56337599</comments>
+			<pubDate>Wed, 02 Feb 2022 09:20:13 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/208"><![CDATA[Video / HD - TV shows]]></category>
+			<dc:creator><![CDATA[jajaja]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56337599/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2265595249</contentLength>
+				<infoHash>3FCA5F77D87EDA9909AD5F665709A88EC381A5ED</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:3FCA5F77D87EDA9909AD5F665709A88EC381A5ED&amp;dn=The+Book+of+Boba+Fett+S01E06+1080p+WEB+h264-KOGi]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Nobody (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:135E2BE1F525D30AAC80E413F371AD171E81C68D&amp;dn=Nobody+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/44094798</comments>
+			<pubDate>Thu, 15 Apr 2021 10:25:34 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/44094798/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1814186248</contentLength>
+				<infoHash>135E2BE1F525D30AAC80E413F371AD171E81C68D</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:135E2BE1F525D30AAC80E413F371AD171E81C68D&amp;dn=Nobody+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Mortal Kombat (2021) [1080p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:2F5A5CCB7DC32B7F7D7B150DD6EFBCE87D2FC371&amp;dn=Mortal+Kombat+%282021%29+%5B1080p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/44626692</comments>
+			<pubDate>Fri, 23 Apr 2021 14:58:32 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/44626692/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2176671920</contentLength>
+				<infoHash>2F5A5CCB7DC32B7F7D7B150DD6EFBCE87D2FC371</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:2F5A5CCB7DC32B7F7D7B150DD6EFBCE87D2FC371&amp;dn=Mortal+Kombat+%282021%29+%5B1080p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[House of Gucci (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:350A43C7F9543173DF04B7ECFCB8D24D27F22F5C&amp;dn=House+of+Gucci+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56304426</comments>
+			<pubDate>Tue, 01 Feb 2022 06:39:28 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[sotnikam]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56304426/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1519315472</contentLength>
+				<infoHash>350A43C7F9543173DF04B7ECFCB8D24D27F22F5C</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:350A43C7F9543173DF04B7ECFCB8D24D27F22F5C&amp;dn=House+of+Gucci+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Microsoft OFFICE 2010  Pro Plus PRECRACKED]]></title>
+			<link>magnet:?xt=urn:btih:27113327FBC680659464B72F63A2C1C644AC8EF8&amp;dn=Microsoft+OFFICE+2010++Pro+Plus+PRECRACKED</link>
+			<comments>https://thepiratebay0.org/torrent/5624753</comments>
+			<pubDate>Sun, 13 Jun 2010 14:09:47 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/301"><![CDATA[Applications / Windows]]></category>
+			<dc:creator><![CDATA[DeGun]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/5624753/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>767623168</contentLength>
+				<infoHash>27113327FBC680659464B72F63A2C1C644AC8EF8</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:27113327FBC680659464B72F63A2C1C644AC8EF8&amp;dn=Microsoft+OFFICE+2010++Pro+Plus+PRECRACKED]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Resident Evil Welcome to Raccoon City (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:E28A97EFADACCD0C5C05CBB09493A6D76105B08A&amp;dn=Resident+Evil+Welcome+to+Raccoon+City+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/55093332</comments>
+			<pubDate>Tue, 21 Dec 2021 07:36:20 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/55093332/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1036880719</contentLength>
+				<infoHash>E28A97EFADACCD0C5C05CBB09493A6D76105B08A</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:E28A97EFADACCD0C5C05CBB09493A6D76105B08A&amp;dn=Resident+Evil+Welcome+to+Raccoon+City+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Licorice Pizza (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:75A1DB0717DFE1AE52572D4D502D34A3C995013E&amp;dn=Licorice+Pizza+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56838334</comments>
+			<pubDate>Sat, 19 Feb 2022 07:03:08 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56838334/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1284273045</contentLength>
+				<infoHash>75A1DB0717DFE1AE52572D4D502D34A3C995013E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:75A1DB0717DFE1AE52572D4D502D34A3C995013E&amp;dn=Licorice+Pizza+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Luca (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:94D1B695CFA239513D7219C5508EF14926FAE7EC&amp;dn=Luca+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/47310634</comments>
+			<pubDate>Sat, 19 Jun 2021 11:18:20 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/47310634/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1887128748</contentLength>
+				<infoHash>94D1B695CFA239513D7219C5508EF14926FAE7EC</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:94D1B695CFA239513D7219C5508EF14926FAE7EC&amp;dn=Luca+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[The Tomorrow War (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:0BCD062CC8D97872F8526F0B1A9E029D601BB9D1&amp;dn=The+Tomorrow+War+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/48493178</comments>
+			<pubDate>Fri, 02 Jul 2021 10:22:51 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/48493178/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2736844512</contentLength>
+				<infoHash>0BCD062CC8D97872F8526F0B1A9E029D601BB9D1</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:0BCD062CC8D97872F8526F0B1A9E029D601BB9D1&amp;dn=The+Tomorrow+War+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Dune (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:A4A395D4B6B86F9CA53E6FC9B290319F764B1EF1&amp;dn=Dune+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/53190551</comments>
+			<pubDate>Sun, 17 Oct 2021 17:00:20 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/53190551/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1434684520</contentLength>
+				<infoHash>A4A395D4B6B86F9CA53E6FC9B290319F764B1EF1</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:A4A395D4B6B86F9CA53E6FC9B290319F764B1EF1&amp;dn=Dune+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Euphoria US S02E07 XviD-AFG]]></title>
+			<link>magnet:?xt=urn:btih:E05D42F597BB90BEACA57D0A10066D361A6D0499&amp;dn=Euphoria+US+S02E07+XviD-AFG</link>
+			<comments>https://thepiratebay0.org/torrent/56892622</comments>
+			<pubDate>Mon, 21 Feb 2022 03:20:11 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/205"><![CDATA[Video / TV shows]]></category>
+			<dc:creator><![CDATA[jajaja]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56892622/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>497842913</contentLength>
+				<infoHash>E05D42F597BB90BEACA57D0A10066D361A6D0499</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:E05D42F597BB90BEACA57D0A10066D361A6D0499&amp;dn=Euphoria+US+S02E07+XviD-AFG]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Wrath of Man (2021) [1080p] [WEBRip] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:D5310E816BA80FCD87F175872501CB3E5887195D&amp;dn=Wrath+of+Man+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/46048832</comments>
+			<pubDate>Tue, 25 May 2021 21:14:29 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[surferbroadband]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/46048832/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2354387265</contentLength>
+				<infoHash>D5310E816BA80FCD87F175872501CB3E5887195D</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:D5310E816BA80FCD87F175872501CB3E5887195D&amp;dn=Wrath+of+Man+%282021%29+%5B1080p%5D+%5BWEBRip%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[No Time to Die (2021) [1080p] [BluRay] [5.1]]]></title>
+			<link>magnet:?xt=urn:btih:3D5E0858E6EDC2673D8E638844FBC17FA60D3E78&amp;dn=No+Time+to+Die+%282021%29+%5B1080p%5D+%5BBluRay%5D+%5B5.1%5D</link>
+			<comments>https://thepiratebay0.org/torrent/54737024</comments>
+			<pubDate>Thu, 09 Dec 2021 07:03:09 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/54737024/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>3234583054</contentLength>
+				<infoHash>3D5E0858E6EDC2673D8E638844FBC17FA60D3E78</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:3D5E0858E6EDC2673D8E638844FBC17FA60D3E78&amp;dn=No+Time+to+Die+%282021%29+%5B1080p%5D+%5BBluRay%5D+%5B5.1%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Black Widow (2021) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:1307346CE9EB49A36BC241A546720D53BBF2FFDC&amp;dn=Black+Widow+%282021%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/49520503</comments>
+			<pubDate>Fri, 09 Jul 2021 10:57:38 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/49520503/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1288704264</contentLength>
+				<infoHash>1307346CE9EB49A36BC241A546720D53BBF2FFDC</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:1307346CE9EB49A36BC241A546720D53BBF2FFDC&amp;dn=Black+Widow+%282021%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[South Park S25E01 Pajama Day 720p HDTV AAC2 0 H 264-slurpuffie40]]></title>
+			<link>magnet:?xt=urn:btih:374584E609F5DAA0B0E512274DB931DC6543AD22&amp;dn=South+Park+S25E01+Pajama+Day+720p+HDTV+AAC2+0+H+264-slurpuffie40</link>
+			<comments>https://thepiratebay0.org/torrent/56361917</comments>
+			<pubDate>Thu, 03 Feb 2022 04:50:13 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/208"><![CDATA[Video / HD - TV shows]]></category>
+			<dc:creator><![CDATA[jajaja]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56361917/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>846442004</contentLength>
+				<infoHash>374584E609F5DAA0B0E512274DB931DC6543AD22</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:374584E609F5DAA0B0E512274DB931DC6543AD22&amp;dn=South+Park+S25E01+Pajama+Day+720p+HDTV+AAC2+0+H+264-slurpuffie40]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[linuxmint-20.2-cinnamon-64bit.iso]]></title>
+			<link>magnet:?xt=urn:btih:873DD05BD69F2626E4123887E7BB7922AAEB4EFA&amp;dn=linuxmint-20.2-cinnamon-64bit.iso</link>
+			<comments>https://thepiratebay0.org/torrent/51875804</comments>
+			<pubDate>Thu, 02 Sep 2021 16:05:27 +0200</pubDate>
+			<category domain="https://thepiratebay0.org/browse/303"><![CDATA[Applications / UNIX]]></category>
+			<dc:creator><![CDATA[metheguy]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/51875804/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>2162147328</contentLength>
+				<infoHash>873DD05BD69F2626E4123887E7BB7922AAEB4EFA</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:873DD05BD69F2626E4123887E7BB7922AAEB4EFA&amp;dn=linuxmint-20.2-cinnamon-64bit.iso]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Star Trek Discovery S04E09 1080p WEB H264-CAKES]]></title>
+			<link>magnet:?xt=urn:btih:54949CFE31FB7AB00E84B1BFF2B014B61838086E&amp;dn=Star+Trek+Discovery+S04E09+1080p+WEB+H264-CAKES</link>
+			<comments>https://thepiratebay0.org/torrent/56784767</comments>
+			<pubDate>Thu, 17 Feb 2022 12:20:11 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/208"><![CDATA[Video / HD - TV shows]]></category>
+			<dc:creator><![CDATA[jajaja]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56784767/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1664299827</contentLength>
+				<infoHash>54949CFE31FB7AB00E84B1BFF2B014B61838086E</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:54949CFE31FB7AB00E84B1BFF2B014B61838086E&amp;dn=Star+Trek+Discovery+S04E09+1080p+WEB+H264-CAKES]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[South.Park.Post.Covid.The.Return.of.Covid.2021.1080p.AMZN.WEBRip]]></title>
+			<link>magnet:?xt=urn:btih:15D7777961396DE4F786B0646C7CC5AD02C43E8C&amp;dn=South.Park.Post.Covid.The.Return.of.Covid.2021.1080p.AMZN.WEBRip</link>
+			<comments>https://thepiratebay0.org/torrent/54945987</comments>
+			<pubDate>Thu, 16 Dec 2021 07:53:53 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[sotnikam]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/54945987/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>1202236451</contentLength>
+				<infoHash>15D7777961396DE4F786B0646C7CC5AD02C43E8C</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:15D7777961396DE4F786B0646C7CC5AD02C43E8C&amp;dn=South.Park.Post.Covid.The.Return.of.Covid.2021.1080p.AMZN.WEBRip]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[South Park S25E02 1080p WEB h264-BAE]]></title>
+			<link>magnet:?xt=urn:btih:1F2A3D24B03DBB93330F06E82C2CC3320E167CB7&amp;dn=South+Park+S25E02+1080p+WEB+h264-BAE</link>
+			<comments>https://thepiratebay0.org/torrent/56571557</comments>
+			<pubDate>Thu, 10 Feb 2022 06:50:12 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/208"><![CDATA[Video / HD - TV shows]]></category>
+			<dc:creator><![CDATA[jajaja]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56571557/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>411020820</contentLength>
+				<infoHash>1F2A3D24B03DBB93330F06E82C2CC3320E167CB7</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:1F2A3D24B03DBB93330F06E82C2CC3320E167CB7&amp;dn=South+Park+S25E02+1080p+WEB+h264-BAE]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Ejaculation Management Is Managed By The Cutest Student At Schoo]]></title>
+			<link>magnet:?xt=urn:btih:529C1E2EC794B8628B0E430A2107F68EF231911C&amp;dn=Ejaculation+Management+Is+Managed+By+The+Cutest+Student+At+Schoo</link>
+			<comments>https://thepiratebay0.org/torrent/56931979</comments>
+			<pubDate>Wed, 23 Feb 2022 09:27:32 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/505"><![CDATA[Porn / HD - Movies]]></category>
+			<dc:creator><![CDATA[Cristie65]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56931979/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>6744192226</contentLength>
+				<infoHash>529C1E2EC794B8628B0E430A2107F68EF231911C</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:529C1E2EC794B8628B0E430A2107F68EF231911C&amp;dn=Ejaculation+Management+Is+Managed+By+The+Cutest+Student+At+Schoo]]></magnetURI>
+			</torrent>
+		</item>
+		<item>
+			<title><![CDATA[Kimi (2022) [720p] [WEBRip]]]></title>
+			<link>magnet:?xt=urn:btih:A65D32BEEF3439510069B7B72E89472CA65C92A2&amp;dn=Kimi+%282022%29+%5B720p%5D+%5BWEBRip%5D</link>
+			<comments>https://thepiratebay0.org/torrent/56585775</comments>
+			<pubDate>Thu, 10 Feb 2022 18:00:45 +0100</pubDate>
+			<category domain="https://thepiratebay0.org/browse/207"><![CDATA[Video / HD - Movies]]></category>
+			<dc:creator><![CDATA[]]></dc:creator>
+			<guid>https://thepiratebay0.org/torrent/56585775/</guid>
+			<torrent xmlns="https://xmlns.ezrss.it/0.1/">
+				<contentLength>856635780</contentLength>
+				<infoHash>A65D32BEEF3439510069B7B72E89472CA65C92A2</infoHash>
+				<magnetURI><![CDATA[magnet:?xt=urn:btih:A65D32BEEF3439510069B7B72E89472CA65C92A2&amp;dn=Kimi+%282022%29+%5B720p%5D+%5BWEBRip%5D]]></magnetURI>
+			</torrent>
+		</item>
+	</channel>
+</rss>

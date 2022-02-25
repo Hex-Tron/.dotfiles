@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -xe
+
+Baseurl="https://thepiratebay0.org/s/"
+DMENU="dmenu -l 15  -i -sb purple"
+val1=$(echo '' | $DMENU -p 'Enter the query:'| tr ' ' '+')
+echo $val1
+
+
+browser="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+curl  -x 'socks5://localhost:9050' -A "$browser" "$Baseurl?q=$val1&page=0&orderby=0" > check.html
+
