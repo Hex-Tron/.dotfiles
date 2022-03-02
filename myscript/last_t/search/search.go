@@ -13,7 +13,7 @@ import "strings"
 
 func main() {
 	p := fmt.Print
-	filePath := "/home/hextron/Tools/project/last_torrent/search/search.html"
+	filePath := "/home/hextron/.cache/torrent/check.html"
 	var title []string
 	var link []string
 	var upload []string
@@ -65,6 +65,9 @@ func main() {
 			//link=append(link,htmlquery.SelectAttr(n,"href"))
 		}
 	}
+	
+	p(len(title))
+	p(len(link))
 
 	if len(title)==len(link) {
 		for i := range title {

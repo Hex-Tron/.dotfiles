@@ -2,12 +2,40 @@
 
 set -xe
 
-Baseurl="https://thepiratebay0.org/s/"
+Baseurl="https://thepiratebay0.org/search"
 DMENU="dmenu -l 15  -i -sb purple"
-val1=$(echo '' | $DMENU -p 'Enter the query:'| tr ' ' '+')
+val1=$(echo '' | $DMENU -p 'Enter the query:')
 echo $val1
-
+val2=$(/home/hextron/Tools/project/last_torrent/space_to_20/spaceto20 "$val1")
+read
 
 browser="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
-curl  -x 'socks5://localhost:9050' -A "$browser" "$Baseurl?q=$val1&page=0&orderby=0" > check.html
+curl  -x 'socks5://localhost:9050' -A "$browser" "$Baseurl/$val2/1/99/0" > $HOME/.cache/torrent/check.html
+/home/hextron/Tools/project/last_torrent/search/search > $HOME/.cache/torrent/formated2.txt
+
+
+new=$(cat $HOME/.cache/torrent/formated2.txt | awk -F ':-:' '{print $1" -:  " $2 " -:    " $3}' | $DMENU -p "$vari :" )
+echo -e "1:$new"
+newchange=$(echo -e "$new" | awk -F ' -:  ' '{print $1}')
+echo -e "2:$newchange"
+box=( "$newchange")
+echo $box
+changed=$(echo  "$box" | awk -F '[' '{print $1}')
+echo $changed
+changed1=("$changed")
+echo $changed1
+if [[ -z "$changed1" ]]; then
+return
+fi
+
+#//grep The.Matrix.Resurrections.2021.HDRip.XviD.AC3-EVO /home/hextron/.cache/torrent/formated.txt
+#grep $newchange $HOME/.cache/torrent/formated.txt
+final=$(grep  "${changed1[@]}"  ${HOME}/.cache/torrent/formated2.txt | awk -F ':-:' '{print $4}')
+#//              ^^^^^^^^^ used because of space in search results
+echo "$final"
+if [[ -n "$final" ]]; then
+qbittorrent "$final" &
+fi
+echo -e "$final"
+
 

@@ -5,8 +5,7 @@
 set -xe
 DMENU="dmenu -l 15  -i -p choose -sb purple"
 Baseurl="https://thepiratebay0.org/rss"
-Nice="
-Search
+Nice="Search
 Audio :-:$Baseurl//top100/100
 Music Top100 :-:$Baseurl/top100/101
 Music Newest  :-:$Baseurl/new/101
@@ -142,7 +141,7 @@ function main() {
 	# cat $HOME/.cache/torrent/formated.txt | $DMENU
 
 
-	local new=$(cat $HOME/.cache/torrent/formated.txt | awk -F ':-:' '{print $1" -:  "$2}' | $DMENU -p "$vari :" )
+	local new=$(cat $HOME/.cache/torrent/formated.txt | awk -F ':-:' '{print $1" -:  " $2 " -:    " $3}' | $DMENU -p "$vari :" )
 	echo -e "1:$new"
 	local newchange=$(echo -e "$new" | awk -F ' -:  ' '{print $1}')
 	echo -e "2:$newchange"
