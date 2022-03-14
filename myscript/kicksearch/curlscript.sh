@@ -17,27 +17,27 @@ Other:other/
 XXX:xxx/
 Doc:documentries/
 
-Popular :popular
-Popular Movies:popular-movies
-Popular TV:popular-tv
-Popular Music:popular-music
-Popular Games:popular-games
-Popular Apps:popular-apps
-Popular Anime:popular-anime
-Popular Other:popular-other
-Popular XXX:popular-xxx
-Popular Doc:popular-documentries
+++Popular :popular
+++Popular Movies:popular-movies
+++Popular TV:popular-tv
+++Popular Music:popular-music
+++Popular Games:popular-games
+++Popular Apps:popular-apps
+++Popular Anime:popular-anime
+++Popular Other:popular-other
+++Popular XXX:popular-xxx
+++Popular Doc:popular-documentries
 
-Top :top-100
-Top Movies :top-100-movies
-Top TV :top-100-tv
-Top Music :top-100-music
-Top Games :top-100-games
-Top Apps :top-100-apps
-Top Anime :top-100-anime
-Top Other :top-100-other
-Top XXX :top-100-xxx
-Top Doc :top-100-documentries
+++Top :top-100
+++Top Movies :top-100-movies
+++Top TV :top-100-tv
+++Top Music :top-100-music
+++Top Games :top-100-games
+++Top Apps :top-100-apps
+++Top Anime :top-100-anime
+++Top Other :top-100-other
+++Top XXX :top-100-xxx
+++Top Doc :top-100-documentries
 
 '
 
@@ -96,9 +96,19 @@ if [[ $value =~ "Search" ]]; then
   exit 0 
 fi
 
+linker=$(echo -e "$Nice" | grep "$value" | head -n 1)
+Newlink=$(echo -e "$linker" |  awk -F ':' '{print $2}')
 
-Newlink=$(echo -e "$Nice"  | grep "$value" | head -n 1 | awk -F ':' '{print $2}')
 function curlquery1() {
+  echo "Loading ..." | $DMENU &
+  PID=$!
+  curl  -x 'socks5://localhost:9050' -A "$browser" "$Baseurl/$Newlink" > $HOME/.cache/torrent/htmlfile.html
+  $HOME/Tools/project/kicksearch/kick $HOME/.cache/torrent/htmlfile.html > $HOME/.cache/torrent/formated.txt  
+  kill $PID
+  new=$(cat $HOME/.cache/torrent/formated.txt | awk -F ':-:' '{print $1 " -: " $3 " -: " $4  }' )
+  new1=$(echo -e "$new\nnext" | $DMENU -p "$val1")
+}
+function curlquery2() {
   echo "Loading ..." | $DMENU &
   PID=$!
   curl  -x 'socks5://localhost:9050' -A "$browser" "$Baseurl/$Newlink/$((page++))" > $HOME/.cache/torrent/htmlfile.html
@@ -109,7 +119,11 @@ function curlquery1() {
 }
 while :
 do
-  curlquery1
+  if [[ $linker =~ '++' ]];then 
+    curlquery1 #without nextable html
+    break
+  fi
+  curlquery2 #with nextable html
   if [[ $new1 != "next" ]]; then 
     break
   fi
