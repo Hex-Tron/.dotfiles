@@ -1,0 +1,23 @@
+#!/bin/bash
+#set -xe
+arr=()
+var=$(ls | fzf -m )
+#while IFS= read -r line; do
+#arr+=("$line")
+#done <<< "$var"
+count=0
+readarray -t arr <<< "$var"
+for i in "${arr[@]}";do
+  x=$(du -d 0 "$i" | awk -F ' ' '{print $1}')
+  count=$(($count + $x))
+
+done
+#MB=$(($count/1024))
+MB=$(echo "$count / 1024" | bc -l )
+valuecheck=$(echo "$MB > 1024" | bc)
+if [[ $valuecheck -eq 1 ]]; then 
+  echo "`echo "$MB / 1024" | bc -l` GB"
+else
+  echo "$MB MB"
+fi
+
