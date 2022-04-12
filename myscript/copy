@@ -1,0 +1,11 @@
+#!/bin/bash
+
+box=''
+
+while read test; do
+   box+="\n${test}";
+ done
+
+
+ echo -e "$box" | xclip -selection clipboard 
+
