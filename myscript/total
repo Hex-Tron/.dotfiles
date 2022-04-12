@@ -8,6 +8,7 @@ var=$(ls | fzf -m )
 count=0
 readarray -t arr <<< "$var"
 for i in "${arr[@]}";do
+    du -h -d 0 "$i" 
   x=$(du -d 0 "$i" | awk -F ' ' '{print $1}')
   count=$(($count + $x))
 
