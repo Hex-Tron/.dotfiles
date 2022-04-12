@@ -1,4 +1,8 @@
 #!/bin/bash
+
+
+#echo hello world | quo
+
 while read test; do 
    echo -e "'${test}'"; 
  done

@@ -1,4 +1,5 @@
 #!/bin/bash
+# echo hello wrld | dqu
 while read test; do 
   echo -e "\"${test}\""; 
 done
