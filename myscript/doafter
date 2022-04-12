@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#tty1: pacman -Syu  
+#tty2: doafter pacman shutdown now
 #set -xe
 arg1=$1
 arg2=${@:2}

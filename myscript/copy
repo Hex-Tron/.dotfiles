@@ -1,5 +1,7 @@
 #!/bin/bash
-
+# echo Hello world | copy
+# Ctrl+V
+#Hello world
 box=''
 
 while read test; do
