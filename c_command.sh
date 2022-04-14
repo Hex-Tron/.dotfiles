@@ -3,8 +3,8 @@
 # ---------------------------------------------------------------------------------------------------
 function c() {
   argument=$1
-  file__=`cat ~/.z | cut -d '|' -f 1 `
-  cd "$(printf "%s\n" "$file__" | fzf -q "$argument" -i --preview 'exa -l {}' --height=50% --tac )"
+  file__=`cat ~/.z | sort -t '|' -k 3n | cut -d '|' -f 1 `
+  cd "$(printf "%s\n" "$file__" | fzf -q "$argument" -i --preview 'exa -l {}' --height=80% --tac )"
 }
 
 # ---------------------------------------------------------------------------------------------------
@@ -19,9 +19,8 @@ function vh() {
 function nv() {
   argument=$1
   nvim "$argument"
-  echo "> $PWD/$argument" >>/home/hextron/.files
+  echo "> $PWD/$argument" >>$HOME/.files
 }
-
 
 # ---------------------------------------------------------------------------------------------------
 
@@ -47,7 +46,7 @@ _copy_comp ()
 
   if [[ -e $prev_arg ]] || [[ -d $prev_arg ]];
   then
-    COMPREPLY=( $( cat /home/hextron/.z | cut -d '|' -f 1  | fzf --reverse ) )
+    COMPREPLY=( $( cat $HOME/.z | cut -d '|' -f 1  | fzf --reverse ) )
     return 0
   fi
 
@@ -62,7 +61,8 @@ complete  -o filenames -F _copy_comp fcp
 function fcp() {
 
   cp "$@"
-} # ---------------------------------------------------------------------------------------------------
+} 
+# ---------------------------------------------------------------------------------------------------
 
 function ff() {
 
