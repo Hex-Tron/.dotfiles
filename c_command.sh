@@ -153,3 +153,7 @@ _mycompletion() {
   COMPREPLY=( $(compgen -W "$(ls | fzf -q $current_word )" -- "$current_word") )
 }
 complete -F _mycompletion mycommand
+
+# ---------------------------------------------------------------------------------------------------
+# Useful commands
+#enc any doc :  tar cz enc_this_doc |      openssl enc -aes-256-cbc -e > out.tar.gz.enc
