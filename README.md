@@ -4,31 +4,31 @@ ___
 
 
 ### ==c== Command for fastest way to move into directory madewith fzf and z
-![[/assets/Pasted image 20220730204338.png]]
+<img src="assets/Pasted image 20220730204338.png"> </img>
 
-![[/assets/Pasted image 20220730204418.png]]
+<img src="assets/Pasted image 20220730204418.png"> </img>
 
 
 ___
 
 ### ==ff== Command is best for finding file in home directory
-![[/assets/Pasted image 20220730215119.png]]
-![[/assets/Pasted image 20220730215202.png]]
+<img src="assets/Pasted image 20220730215119.png"> </img>
+<img src="assets/Pasted image 20220730215202.png"> </img>
 > [!Note] Copied in buffer
 
-![[/assets/Pasted image 20220730215557.png]]
+<img src="assets/Pasted image 20220730215557.png"> </img>
 
 ___
 
 
 
 ### ==fcp== is fast cp 
-![[/assets/Pasted image 20220730221942.png]]
+<img src="assets/Pasted image 20220730221942.png"> </img>
 #### Press (Tab) and specify directory
-![[/assets/Pasted image 20220730222232.png]]
+<img src="assets/Pasted image 20220730222232.png"> </img>
 
 Press (Enter) 
-![[/assets/Pasted image 20220730222335.png]]
+<img src="assets/Pasted image 20220730222335.png"> </img>
 
 ___
 
@@ -36,21 +36,21 @@ ___
 
 <img src="assets/Pasted image 20220730220748.png"> </img>
 
-![[/assets/Pasted image 20220730220935.png]]
+<img src="assets/Pasted image 20220730220935.png"> </img>
 
 ##### Press (Enter)
 
 
 
-![[/assets/Pasted image 20220730221120.png]]
+<img src="assets/Pasted image 20220730221120.png"> </img>
 
 
 ___
 
 
 ### ==vh== Command is for vim/neovim history
-![[/assets/Pasted image 20220730205227.png]]
-![[/assets/Pasted image 20220730205321.png]]
-![[/assets/Pasted image 20220730205422.png]]
+<img src="assets/Pasted image 20220730205227.png"> </img>
+<img src="assets/Pasted image 20220730205321.png"> </img>
+<img src="assets/Pasted image 20220730205422.png"> </img>
 
-![[/assets/Pasted image 20220730205603.png]]
+<img src="assets/Pasted image 20220730205603.png"> </img>
