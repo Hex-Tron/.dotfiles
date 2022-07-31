@@ -34,7 +34,7 @@ ___
 
 ### ==r== Command is for fuzzy intractive search in directory 
 
-![[assets/Pasted image 20220730220748.png]]
+![[./assets/Pasted image 20220730220748.png]]
 
 ![[/assets/Pasted image 20220730220935.png]]
 
